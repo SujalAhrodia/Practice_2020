@@ -13,3 +13,8 @@ Given an array that is definitely a mountain, return any i such that A[0] < A[1]
 > 1. Write a function that reverses a string. The input string is given as an array of characters char[].
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 You may assume all the characters consist of printable ascii characters.
+> 2. Given a string S that only contains "I" (increase) or "D" (decrease), let N = S.length.
+Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1: <br>
+If S[i] == "I", then A[i] < A[i+1] <br>
+If S[i] == "D", then A[i] > A[i+1] <br>
+ 
