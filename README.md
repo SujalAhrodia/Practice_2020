@@ -21,3 +21,5 @@ If S[i] == "D", then A[i] > A[i+1] <br>
 ## Day 3
 > 1. Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
+> 2. Given an array of integers, find if the array contains any duplicates.
+Your function should return true if any value appears at least twice in the array, and it should return false if every element is distinct.
