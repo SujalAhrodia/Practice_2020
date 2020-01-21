@@ -18,3 +18,6 @@ Return any permutation A of [0, 1, ..., N] such that for all i = 0, ..., N-1: <b
 If S[i] == "I", then A[i] < A[i+1] <br>
 If S[i] == "D", then A[i] > A[i+1] <br>
  
+## Day 3
+> 1. Given an array of integers, return indices of the two numbers such that they add up to a specific target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
