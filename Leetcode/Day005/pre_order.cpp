@@ -17,6 +17,9 @@ public:
     }
 };
 */
+
+// recursive
+
 class Solution {
 public:
     Node* helper(Node* root, vector<int>& ans)
@@ -36,6 +39,34 @@ public:
     {
         vector<int> ans;
         helper(root, ans);        
+        return ans;
+    }
+};
+
+//iterative 
+
+class Solution {
+public:
+    vector<int> preorder(Node* root) 
+    {
+        if(!root)
+            return {}; //empty vector
+        
+        vector<int> ans;
+        stack<Node*> s;
+        
+        s.push(root);
+        
+        while(!s.empty())
+        {
+            Node* top1 = s.top();
+            s.pop();
+            
+            for(int i=top1->children.size()-1; i>=0; i--)
+                s.push(top1->children[i]);
+            ans.push_back(top1->val);
+        }
+        
         return ans;
     }
 };
