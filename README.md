@@ -28,3 +28,9 @@ Your function should return true if any value appears at least twice in the arra
 > 1. Reverse a singly linked list.
 > 2. Given a linked list, determine if it has a cycle in it.
 To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+
+## Day 5
+> 1. Given an n-ary tree, return the preorder traversal of its nodes' values.
+Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
+>2. Given an n-ary tree, return the postorder traversal of its nodes' values.
+Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
