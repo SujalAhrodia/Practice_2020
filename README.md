@@ -34,3 +34,6 @@ To represent a cycle in the given linked list, we use an integer pos which repre
 Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
 >2. Given an n-ary tree, return the postorder traversal of its nodes' values.
 Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
+
+## Day 6
+> 1. Given an array nums of n integers where n > 1,  return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].
