@@ -37,3 +37,7 @@ Nary-Tree input serialization is represented in their level order traversal, eac
 
 ## Day 6
 > 1. Given an array nums of n integers where n > 1,  return an array output such that output[i] is equal to the product of all the elements of nums except nums[i].
+> 2. Say you have an array for which the ith element is the price of a given stock on day i.
+If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+Note that you cannot sell a stock before you buy one.
+> 3. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
