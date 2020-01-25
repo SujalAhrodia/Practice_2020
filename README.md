@@ -41,3 +41,16 @@ Nary-Tree input serialization is represented in their level order traversal, eac
 If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 Note that you cannot sell a stock before you buy one.
 > 3. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
+## Day 7
+> 1. Given a binary tree, find its maximum depth.
+The maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
+Note: A leaf is a node with no children.
+> 2. Given a binary tree, find its minimum depth.
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+Note: A leaf is a node with no children.
+
+## Day 8
+> 1. Given two binary trees, write a function to check if they are the same or not.
+Two binary trees are considered the same if they are structurally identical and the nodes have the same value.
+> 2. Invert a binary tree.
