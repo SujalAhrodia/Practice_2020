@@ -70,4 +70,5 @@ Assume a BST is defined as follows:
 The left subtree of a node contains only nodes with keys less than the node's key.
 The right subtree of a node contains only nodes with keys greater than the node's key.
 Both the left and right subtrees must also be binary search trees.
- 
+> 2. Giving two portfolios combination of stocks, one for  yourself and one for benchmark. They also provide the stocks market price individually. We have to maintain the equal vale of the our portfolios by selling or buying the our stocks. (Using programming ).
+eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 | Google,STOCK,10 | Microsoft,BOND,15
