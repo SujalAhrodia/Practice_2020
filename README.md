@@ -72,3 +72,7 @@ The right subtree of a node contains only nodes with keys greater than the node'
 Both the left and right subtrees must also be binary search trees.
 > 2. Giving two portfolios combination of stocks, one for  yourself and one for benchmark. They also provide the stocks market price individually. We have to maintain the equal vale of the our portfolios by selling or buying the our stocks. (Using programming ).
 eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 | Google,STOCK,10 | Microsoft,BOND,15
+
+## Day 11
+> 1. Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements
+> 2. Given two strings s and t , write a function to determine if t is an anagram of s.
