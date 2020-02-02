@@ -76,3 +76,6 @@ eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 |
 ## Day 11
 > 1. Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements
 > 2. Given two strings s and t , write a function to determine if t is an anagram of s.
+
+## Day 12
+> 1. Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
