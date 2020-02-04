@@ -79,3 +79,8 @@ eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 |
 
 ## Day 12
 > 1. Given an integer array nums, find the contiguous subarray within an array (containing at least one number) which has the largest product.
+
+## Day 13
+> 1. Calculate the sum of two integers a and b, but you are not allowed to use the operator + and -.
+> 2. Write a function that takes an unsigned integer and return the number of '1' bits it has (also known as the Hamming weight).
+> 3. Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
