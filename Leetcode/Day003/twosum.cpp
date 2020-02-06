@@ -47,7 +47,6 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) 
     {
-        vector<int> ans;
         map<int,int> mmap;
         
         for(int i=0; i<nums.size(); i++)
@@ -56,7 +55,6 @@ public:
                 return vector {mmap[target-nums[i]],i};
             mmap[nums[i]]=i;
         }
-        
-        return ans;
+        return vector<int> ();   
     }
 };
