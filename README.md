@@ -88,3 +88,8 @@ eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 |
 ## Day 14
 > 1. Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
 > 2. Reverse bits of a given 32 bits unsigned integer.
+
+## Detour
+<details><summary>Interview</summary>
+> 1. Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard.
+</details>
