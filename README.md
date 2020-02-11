@@ -92,4 +92,6 @@ eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 |
 ## Detour
 <details><summary>Interview</summary>
 > 1. Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard.
+> 2. You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find all the next greater numbers for nums1's elements in the corresponding places of nums2.
+The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. If it does not exist, output -1 for this number.
 </details>
