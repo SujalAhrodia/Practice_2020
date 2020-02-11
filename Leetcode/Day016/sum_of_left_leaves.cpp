@@ -1,3 +1,5 @@
+// idea: need a way to keep a track of the parent node(if it has a right node or not)
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
