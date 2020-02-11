@@ -93,7 +93,7 @@ eg: Vodafone,STOCK,10 | Google,STOCK,15 | Microsoft,BOND,15: Vodafone,STOCK,15 |
 <details><summary>Interview</summary>
 
 > 1. Given a List of words, return the words that can be typed using letters of alphabet on only one row's of American keyboard. 
- 
+### Day 15
 > 2. You are given two arrays (without duplicates) nums1 and nums2 where nums1’s elements are subset of nums2. Find all the next greater numbers for nums1's elements in the corresponding places of nums2.
 The Next Greater Number of a number x in nums1 is the first greater number to its right in nums2. If it does not exist, output -1 for this number.
 
@@ -103,5 +103,9 @@ The Next Greater Number of a number x in nums1 is the first greater number to it
 You're given a matrix represented by a two-dimensional array, and two positive integers r and c representing the row number and column number of the wanted reshaped matrix, respectively.
 The reshaped matrix need to be filled with all the elements of the original matrix in the same row-traversing order as they were.
 If the 'reshape' operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.
+
+### Day 16
+> 5. Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum frequency of any one of its elements.
+Your task is to find the smallest possible length of a (contiguous) subarray of nums, that has the same degree as nums.
 
 </details>
