@@ -105,7 +105,9 @@ The reshaped matrix need to be filled with all the elements of the original matr
 If the 'reshape' operation with given parameters is possible and legal, output the new reshaped matrix; Otherwise, output the original matrix.
 
 ### Day 16
-> 5. Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum frequency of any one of its elements.
+> 1. Given a non-empty array of non-negative integers nums, the degree of this array is defined as the maximum frequency of any one of its elements.
 Your task is to find the smallest possible length of a (contiguous) subarray of nums, that has the same degree as nums.
+
+> 2. Find the sum of all left leaves in a given binary tree.
 
 </details>
