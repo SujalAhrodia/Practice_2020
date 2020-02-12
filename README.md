@@ -110,4 +110,6 @@ Your task is to find the smallest possible length of a (contiguous) subarray of 
 
 > 2. Find the sum of all left leaves in a given binary tree.
 
+> 3. Given a linked list, remove the n-th node from the end of list and return its head.
+
 </details>
