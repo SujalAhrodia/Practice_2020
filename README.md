@@ -112,4 +112,16 @@ Your task is to find the smallest possible length of a (contiguous) subarray of 
 
 > 3. Given a linked list, remove the n-th node from the end of list and return its head.
 
+### Day 17
+> 1. Implement the following operations of a queue using stacks.
+>>* push(x) -- Push element x to the back of queue.
+>>* pop() -- Removes the element from in front of queue.
+>>* peek() -- Get the front element.
+>>* empty() -- Return whether the queue is empty.
+
+> 2. Implement the following operations of a stack using queues.
+>>* push(x) -- Push element x onto stack.
+>>* pop() -- Removes the element on top of the stack.
+>>* top() -- Get the top element.
+>>* empty() -- Return whether the stack is empty.
 </details>
