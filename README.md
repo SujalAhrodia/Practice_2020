@@ -124,4 +124,9 @@ Your task is to find the smallest possible length of a (contiguous) subarray of 
 >>* pop() -- Removes the element on top of the stack.
 >>* top() -- Get the top element.
 >>* empty() -- Return whether the stack is empty.
+
+### Day 18
+> 1. Given an array of n integers nums and a target, find the number of index triplets i, j, k with 0 <= i < j < k < n that satisfy the condition nums[i] + nums[j] + nums[k] < target.
+
+> 2. Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
 </details>
