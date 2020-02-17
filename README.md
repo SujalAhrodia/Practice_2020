@@ -145,3 +145,6 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 Note: Given n will be a positive integer.
 
 > 4. You are given coins of different denominations and a total amount of money amount. Write a function to compute the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
+
+## Day 20
+> 1. You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
