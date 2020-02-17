@@ -130,3 +130,12 @@ Your task is to find the smallest possible length of a (contiguous) subarray of 
 
 > 2. Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
 </details>
+
+## Day 19
+> 1. A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+How many possible unique paths are there?
+
+> 2. A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).
+The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
+Now consider if some obstacles are added to the grids. How many unique paths would there be?
