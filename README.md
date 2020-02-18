@@ -148,3 +148,5 @@ Note: Given n will be a positive integer.
 
 ## Day 20
 > 1. You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
+
+> 2. Given an unsorted array of integers, find the length of longest increasing subsequence.
