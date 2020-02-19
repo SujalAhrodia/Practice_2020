@@ -150,3 +150,7 @@ Note: Given n will be a positive integer.
 > 1. You are given coins of different denominations and a total amount of money. Write a function to compute the number of combinations that make up that amount. You may assume that you have infinite number of each kind of coin.
 
 > 2. Given an unsorted array of integers, find the length of longest increasing subsequence.
+
+> 3. Given two strings text1 and text2, return the length of their longest common subsequence.
+A subsequence of a string is a new string generated from the original string with some characters(can be none) deleted without changing the relative order of the remaining characters. (eg, "ace" is a subsequence of "abcde" while "aec" is not). A common subsequence of two strings is a subsequence that is common to both strings.
+If there is no common subsequence, return 0.
