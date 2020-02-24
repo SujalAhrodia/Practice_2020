@@ -170,5 +170,7 @@ You may return any answer array that satisfies this condition.
 
 > 4. Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
 
+> 5. Given a stream of integers and a window size, calculate the moving average of all integers in the sliding window.
+
 </details>
  
