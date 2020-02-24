@@ -154,3 +154,21 @@ Note: Given n will be a positive integer.
 > 3. Given two strings text1 and text2, return the length of their longest common subsequence.
 A subsequence of a string is a new string generated from the original string with some characters(can be none) deleted without changing the relative order of the remaining characters. (eg, "ace" is a subsequence of "abcde" while "aec" is not). A common subsequence of two strings is a subsequence that is common to both strings.
 If there is no common subsequence, return 0.
+
+## Detour 2
+
+<details><summary> Interview </summary>
+
+## Day 21
+> 1. Given the root node of a binary search tree, return the sum of values of all nodes with value between L and R (inclusive).
+The binary search tree is guaranteed to have unique values.
+
+> 2. Given an integer n, return any array containing n unique integers such that they add up to 0.
+
+> 3. Given an array A of non-negative integers, return an array consisting of all the even elements of A, followed by all the odd elements of A.
+You may return any answer array that satisfies this condition.
+
+> 4. Given an array of integers A sorted in non-decreasing order, return an array of the squares of each number, also in sorted non-decreasing order.
+
+</details>
+ 
