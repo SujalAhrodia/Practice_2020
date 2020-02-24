@@ -32,6 +32,29 @@ public:
     }
 };
 
+// second solution using stringstream
+
+class Solution {
+public:
+    string reverseWords(string s) 
+    {
+        string rev="";
+        
+        stringstream ss(s);
+        string word;
+        
+        while(ss>>word)
+        {
+            reverse(word.begin(), word.end());
+            rev+=word+' ';
+        }
+        //removing the last space
+        rev.pop_back();
+        return rev;
+    }
+};
+
+
 // optimized solution (in-place)
 
 class Solution {
