@@ -179,5 +179,15 @@ You may return any answer array that satisfies this condition.
 > 2. Given two arrays arr1 and arr2, the elements of arr2 are distinct, and all elements in arr2 are also in arr1.
 Sort the elements of arr1 such that the relative ordering of items in arr1 are the same as in arr2.  Elements that don't appear in arr2 should be placed at the end of arr1 in ascending order.
 
+> 3. The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
+F(0) = 0,   F(1) = 1
+F(N) = F(N - 1) + F(N - 2), for N > 1.
+Given N, calculate F(N).
+
+> 4. Consider all the leaves of a binary tree.  From left to right order, the values of those leaves form a leaf value sequence.
+For example, in the given tree above, the leaf value sequence is (6, 7, 4, 9, 8).
+Two binary trees are considered leaf-similar if their leaf value sequence is the same.
+Return true if and only if the two given trees with head nodes root1 and root2 are leaf-similar.
+
 </details>
  
