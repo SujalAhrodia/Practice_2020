@@ -199,5 +199,21 @@ Return true if and only if the two given trees with head nodes root1 and root2 a
 
 > 1.Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
 
+## Day 25
+
+> 1. Given an input string, reverse the string word by word.
+Note:
+>> * A word is defined as a sequence of non-space characters.
+>> * Input string may contain leading or trailing spaces. However, your reversed string should not contain leading or trailing spaces.
+>> * You need to reduce multiple spaces between two words to a single space in the reversed string.
+>> * For C programmers, try to solve it in-place in O(1) extra space.
+
+> 2. Given an input string , reverse the string word by word. 
+Note:
+>> * A word is defined as a sequence of non-space characters.
+>> * The input string does not contain leading or trailing spaces.
+>> * The words are always separated by a single space.
+>> * Follow up: Could you do it in-place without allocating extra space?
+
 </details>
  
