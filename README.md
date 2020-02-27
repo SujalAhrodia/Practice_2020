@@ -215,5 +215,10 @@ Note:
 >> * The words are always separated by a single space.
 >> * Follow up: Could you do it in-place without allocating extra space?
 
+> 3. Given an array of strings, group anagrams together.
+Note:
+>> * All inputs will be in lowercase.
+>> * The order of your output does not matter.
+
 </details>
  
