@@ -191,6 +191,10 @@ Return true if and only if the two given trees with head nodes root1 and root2 a
 
 ## Day 23
 
+> 1. Implement atoi which converts a string to an integer.
+
+> 2. Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+
 ## Day 24
 
 > 1.Given a m x n matrix, if an element is 0, set its entire row and column to 0. Do it in-place.
