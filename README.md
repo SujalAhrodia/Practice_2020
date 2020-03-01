@@ -238,5 +238,11 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 Follow up:
 What if you cannot modify the input lists? In other words, reversing the lists is not allowed.
 
+## Day 27
+
+> 1. Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+> 2. Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+
 </details>
  
