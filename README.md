@@ -255,5 +255,11 @@ You have to rotate the image in-place, which means you have to modify the input 
 
 > 3. Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
 
+## Day 29
+
+> 1. Say you have an array for which the ith element is the price of a given stock on day i.
+If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
+Note that you cannot sell a stock before you buy one.
+
 </details>
  
