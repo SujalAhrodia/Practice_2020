@@ -263,5 +263,10 @@ Note that you cannot sell a stock before you buy one.
 
 > 2. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
+## Day 30
+
+> 1. Given a linked list, swap every two adjacent nodes and return its head.
+You may not modify the values in the list's nodes, only nodes itself may be changed.
+
 </details>
  
