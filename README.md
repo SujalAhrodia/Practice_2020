@@ -261,5 +261,7 @@ You have to rotate the image in-place, which means you have to modify the input 
 If you were only permitted to complete at most one transaction (i.e., buy one and sell one share of the stock), design an algorithm to find the maximum profit.
 Note that you cannot sell a stock before you buy one.
 
+> 2. Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
 </details>
  
