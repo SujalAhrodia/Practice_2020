@@ -268,5 +268,7 @@ Note that you cannot sell a stock before you buy one.
 > 1. Given a linked list, swap every two adjacent nodes and return its head.
 You may not modify the values in the list's nodes, only nodes itself may be changed.
 
+> 2. Design a parking lot.
+
 </details>
  
