@@ -270,5 +270,14 @@ You may not modify the values in the list's nodes, only nodes itself may be chan
 
 > 2. Design a parking lot.
 
+## Day 31
+
+> 1. Given a binary tree
+Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.
+Initially, all next pointers are set to NULL.
+Follow up:
+>> * You may only use constant extra space.
+>> * Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.
+
 </details>
  
