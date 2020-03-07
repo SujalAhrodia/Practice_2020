@@ -300,5 +300,7 @@ Follow up:
 >> * You may only use constant extra space.
 >> * Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.
 
+> 4. Given a binary tree, return the zigzag level order traversal of its nodes' values. (ie, from left to right, then right to left for the next level and alternate between).
+
 </details>
  
