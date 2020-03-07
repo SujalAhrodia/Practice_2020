@@ -1,6 +1,6 @@
 /*
 
-Imp to remember: erasing string mechanism | isdeigit() | str.erase()
+Imp to remember: erasing string mechanism | isdigit() | str.erase()
 
 */
 
