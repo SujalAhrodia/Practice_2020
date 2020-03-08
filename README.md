@@ -321,5 +321,10 @@ Each rectangle is defined by its bottom left corner and top right corner as show
 > 3. Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 
+> 4. Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array.
+Note:
+>> * The number of elements initialized in nums1 and nums2 are m and n respectively.
+>> * You may assume that nums1 has enough space (size that is greater or equal to m + n) to hold additional elements from nums2.
+
 </details>
  
