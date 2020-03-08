@@ -318,5 +318,8 @@ Note:
 > 2. Find the total area covered by two rectilinear rectangles in a 2D plane.
 Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.
 
+> 3. Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
+Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+
 </details>
  
