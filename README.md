@@ -315,5 +315,8 @@ Note:
 >> * Both num1 and num2 does not contain any leading zero.
 >> * You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
+> 2. Find the total area covered by two rectilinear rectangles in a 2D plane.
+Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.
+
 </details>
  
