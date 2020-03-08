@@ -332,5 +332,12 @@ Note:
 Here, we will use the integers 0, 1, and 2 to represent the color red, white, and blue respectively.
 Note: You are not suppose to use the library's sort function for this problem.
 
+> 2. Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
+(i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
+You are given a target value to search. If found in the array return its index, otherwise return -1.
+NOTE:
+>> * You may assume no duplicate exists in the array.
+>> * Your algorithm's runtime complexity must be in the order of O(log n).
+
 </details>
  
