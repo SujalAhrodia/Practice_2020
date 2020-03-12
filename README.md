@@ -351,5 +351,15 @@ You may assume no duplicate exists in the array.
 Find the minimum element.
 The array may contain duplicates.
 
+## Day 36
+
+> 1. Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+Integers in each row are sorted from left to right.
+The first integer of each row is greater than the last integer of the previous row.
+
+> 2. Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:
+Integers in each row are sorted in ascending from left to right.
+Integers in each column are sorted in ascending from top to bottom.
+
 </details>
  
