@@ -13,19 +13,17 @@ public:
         if(!head)
             return NULL;
         
-        ListNode* curr = head;
         ListNode* prev = NULL;
-        ListNode* temp;
+        ListNode* curr=head;
         
-        while(curr->next)
+        while(head->next)
         {
-            temp = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = temp;
+            curr=head->next;
+            head->next = prev;
+            prev=head;
+            head=curr;
         }
-        curr->next=prev;
-        
-        return curr;
+        head->next=prev;
+        return head;
     }
 };
