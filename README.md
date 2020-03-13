@@ -373,5 +373,15 @@ The cache is initialized with a positive capacity.
 Follow up:
 >> * Could you do both operations in O(1) time complexity?
 
+## Day 37
+
+> 1. Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.
+Design an algorithm to serialize and deserialize a binary tree. There is no restriction on how your serialization/deserialization algorithm should work. You just need to ensure that a binary tree can be serialized to a string and this string can be deserialized to the original tree structure.
+
+> 2. Given an array of characters, compress it in-place.
+The length after compression must always be smaller than or equal to the original array.
+Every element of the array should be a character (not int) of length 1.
+After you are done modifying the input array in-place, return the new length of the array.
+
 </details>
  
