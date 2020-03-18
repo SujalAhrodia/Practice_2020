@@ -395,3 +395,19 @@ You may assume the following rules:
 
 > 1. Given a non-empty 2D array grid of 0's and 1's, an island is a group of 1's (representing land) connected 4-directionally (horizontal or vertical.) You may assume all four edges of the grid are surrounded by water.
 Find the maximum area of an island in the given 2D array. (If there is no island, the maximum area is 0.)
+
+## Day 39
+
+> 1. Given an array arr of positive integers, consider all binary trees such that:
+Each node has either 0 or 2 children;
+The values of arr correspond to the values of each leaf in an in-order traversal of the tree.  (Recall that a node is a leaf if and only if it has 0 children.)
+The value of each non-leaf node is equal to the product of the largest leaf value in its left and right subtree respectively.
+Among all possible binary trees considered, return the smallest possible sum of the values of each non-leaf node.  It is guaranteed this sum fits into a 32-bit integer.
+
+> 2. Given a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom.
+
+> 3. Given a string, your task is to count how many palindromic substrings in this string.
+The substrings with different start indexes or end indexes are counted as different substrings even they consist of same characters.
+
+> 4. Given an array of numbers, verify whether it is the correct preorder traversal sequence of a binary search tree.
+You may assume each number in the sequence is unique.
