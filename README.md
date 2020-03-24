@@ -418,3 +418,8 @@ k is a positive integer and is less than or equal to the length of the linked li
 ## Day 40
 
 > 1. Given a string s, return the last substring of s in lexicographical order.
+
+## Day 41
+
+> 1. Given a non-empty list of words, return the k most frequent elements.
+Your answer should be sorted by frequency from highest to lowest. If two words have the same frequency, then the word with the lower alphabetical order comes first.
